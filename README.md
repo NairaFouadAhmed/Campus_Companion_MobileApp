@@ -29,10 +29,4 @@ It was created collaboratively as a group project to address real student needs 
 
 ---
 
-## 🛠 Installation
 
-```bash
-git clone https://github.com/NairaFouadAhmed/Campus_Companion_MobileApp.git
-cd Campus_Companion_MobileApp
-flutter pub get
-flutter run
